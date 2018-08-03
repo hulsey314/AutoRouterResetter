@@ -4,3 +4,6 @@ For use on a Raspberry Pi.  This program monitors internet connectivity and rese
 Usage:
 - Run AutoRouterResetter.py when Raspberry Pi is turned on to begin monitoring internet and reset button presses
 - Run RequestLogFile.py [email address] to convert log file to XLSX and email to given address
+
+Dependencies:
+- XLSX Writer https://xlsxwriter.readthedocs.io/
